@@ -1,0 +1,2 @@
+# react-from-scratch
+This repository documents my journey of learning React.js from beginner to advanced level. It includes hands-on practice projects, core concepts, reusable components, and modern React patterns. I am covering hooks, state management, routing, API integration, and performance optimization. The goal is to build scalable and production-ready React applications. Follow along as I grow step by step into a confident React developer.
