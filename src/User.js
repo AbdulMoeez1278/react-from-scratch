@@ -39,3 +39,20 @@ return (
 <h1>{name.toUpperCase()}</h1>
 <h1>{isLoggedIn ? "Welcome" : Login}</h1> */
 }
+
+<div style={{ color: "red", fontSize: "20px" }}>Hello</div>;
+
+const users = ["Ali", "Ahmed", "Moeez", "Rameez"];
+
+<ul>
+  {users.map(
+    (user, index) => (
+      (<li key={index}>{user}</li>),
+      (<li key={index}>{user}</li>),
+      (<li key={index}>{user}</li>),
+      (<li key={index}>{user}</li>),
+      (<li key={index}>{user}</li>),
+      (<li key={index}>{user}</li>)
+    ),
+  )}
+</ul>;
